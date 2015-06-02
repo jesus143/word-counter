@@ -1,0 +1,12 @@
+body {
+    background-color: #FAFAFA;
+}
+textarea {
+    width:100%;
+    resize:none;
+    height: 200px;
+}
+
+.container {
+    padding-top:30px;
+}
